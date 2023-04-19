@@ -11,3 +11,13 @@ It also turned out that the right half of the LCD obviously was damaged but the 
 Here is the schematic I finally used:
 
 <img src="schematic.png" width="600" />
+
+I used two large screws as contacts so it is easy to touch resistors with them.
+
+Controls:
+
+Offset Button: short-circuit the two contacts so that there is a resistance of 0 ohms and press the Offset Button to calibrate the lower end of the scale.
+
+Calibration Button: hold a 10k resistor to the screws and press the Calibration Button to improve scaling.
+
+The potentiometer can be used to adjust the contrast of the LCD display.
