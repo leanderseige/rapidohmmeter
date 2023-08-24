@@ -2,6 +2,12 @@
 
 Measuring a single resistor with your digital multimeter or one of these (super useful) modern multifunction testers felt way too slow and cumbersome to me. So I thought about how to build a really fast tool to measure resistors flying around my workbench. Here is what I came up with.
 
+<img src="media/photo1.jpg" width="400" />
+
+(The case was made out of semi-transparent PLA which explains the coloring)
+
+<img src="media/resistor.gif" width="400" />
+
 # Circuit diagram
 
 I found a really old LCD display in my material storage an I also had a couple of cheap Arduino Leonardo "Pro Micro" clones flying around on my workbench. So I puzzeled some components together, being inspired by this project: https://www.circuitbasics.com/arduino-ohm-meter/
