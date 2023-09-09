@@ -1,6 +1,6 @@
 # Rapid Ohmmeter
 
-Measuring a single resistor with a digital multimeter or one of these (super useful) modern multifunction testers felt way too slow and cumbersome to me. So I thought about how to build a really fast tool to measure resistors flying around on my workbench. Here is what I came up with.
+Measuring a single resistor with a digital multimeter or one of these (super useful) modern multifunction testers is way too slow and cumbersome for me. So I thought about how to build a really fast tool to measure resistors flying around on my workbench. Here is what I came up with.
 
 <img src="media/photo1.jpg" width="600" />
 
